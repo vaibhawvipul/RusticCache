@@ -1,7 +1,6 @@
 mod cache;
-mod errors;
+mod error;
 mod evictionpolicy;
 
-pub use cache::{Cache, CacheConfig};
-pub use errors::{CacheError, CacheResult};
-pub use evictionpolicy::{EvictionPolicy, LRU};
+pub use cache::{Cache};
+pub use error::{CacheError};
