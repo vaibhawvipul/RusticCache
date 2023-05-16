@@ -1,5 +1,5 @@
 [package]
-name = "RusticCache"
+name = "rustic_cache"
 version = "0.1.0"
 edition = "2021"
 
