@@ -2,7 +2,12 @@
 
 RusticCache is an open-source cache store built using the Rust programming language. It is designed to be fast, efficient, and easy to use. RusticCache provides an in-memory cache that stores key-value pairs for quick retrieval.
 
-## It is still under-development.
+## Build and Run
+
+- `cargo build`
+- `cargo run`
+
+## It is still under-development. 
 
 ## Features (To-do)
 - Fast and efficient in-memory cache store
